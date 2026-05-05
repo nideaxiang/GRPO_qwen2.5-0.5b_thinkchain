@@ -35,6 +35,11 @@ python main.py \
     --learning_rate 5e-6 \
     --bf16
 ```
+swanlab记录了训练过程：https://swanlab.cn/@duan_daniel/thinkchain/runs/p1ucmpon738406aypna7y/chart
+![Uploading image.png…]()
+
+
+
 
 #### 2. GRPO 强化学习训练（第二阶段）
 
