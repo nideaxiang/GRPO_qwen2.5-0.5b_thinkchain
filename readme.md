@@ -36,7 +36,8 @@ python main.py \
     --bf16
 ```
 swanlab记录了训练过程：https://swanlab.cn/@duan_daniel/thinkchain/runs/p1ucmpon738406aypna7y/chart
-![Uploading image.png…]()
+<img width="2132" height="761" alt="image" src="https://github.com/user-attachments/assets/1f37032b-a40a-4f1b-be4b-a89080dc9fc3" />
+
 
 
 
